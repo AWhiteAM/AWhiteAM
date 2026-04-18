@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @AWhiteAM
-- 👀 I’m interested in AI navigation
+- 👀 I’m interested in MAchine learning navigation, Data Analysis, Drone Engineering and Optimization
 - 🌱 I’m currently learning Applied Mathematics
-- 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on creating and analyzing the best machine learning programs
+- 📫 You can reach me by email, Aarontylerwhite@gmail.com  
+- ⚡ Fun fact: I've created a quad rotor drone that doesnt use a flight controller
 
 <!---
 AWhiteAM/AWhiteAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
